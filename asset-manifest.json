@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-3-colorpicker/static/css/main.e6c13ad2.css",
+    "main.js": "/reactjs-3-colorpicker/static/js/main.3ffe0c30.js",
+    "static/js/787.6018e935.chunk.js": "/reactjs-3-colorpicker/static/js/787.6018e935.chunk.js",
+    "index.html": "/reactjs-3-colorpicker/index.html",
+    "main.e6c13ad2.css.map": "/reactjs-3-colorpicker/static/css/main.e6c13ad2.css.map",
+    "main.3ffe0c30.js.map": "/reactjs-3-colorpicker/static/js/main.3ffe0c30.js.map",
+    "787.6018e935.chunk.js.map": "/reactjs-3-colorpicker/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3ffe0c30.js"
+  ]
+}
